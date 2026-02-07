@@ -1,6 +1,6 @@
 import sys
 import sqlite3
-from PyQt5 import QtWidgets, uic
+from PyQt5 import QtWidgets ,uic
 from scoring import batting_points, bowling_points, fielding_points
 
 class FantasyCricket(QtWidgets.QMainWindow):
